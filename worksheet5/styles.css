@@ -169,7 +169,10 @@ audio{
 button {
     border: 1px solid blueviolet;
     border-radius: 5px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    font-family: aviano-future,sans-serif;
+    font-weight: 700;
+    font-style: normal;
     font-size: large;
     padding: 10px;
     margin: 2px;
